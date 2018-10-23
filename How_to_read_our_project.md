@@ -8,5 +8,5 @@ Note that we output csv "train_cleaned.csv" for further analysis after we've fin
 
 -"original" folder contains the original dataset "train.csv" and a texted description to help you understand our dataset.
 
-If you have any question about our project, please contact: Xiaomeng Wei, riowxm@my.yorku.ca
+If you have any question about our project, please contact: Jimmy Lu, jinye.lu@alumni.ubc.ca
 Thank you.
