@@ -1,4 +1,4 @@
-# House_Sale_Price
+# House-Prices-Advanced-Regression-Techniques
 There are 2 folders in our submission.
 
 -Deliverable is our main report and the delivery. -"code" folder contains our code in R or Python. They are named by order and the topic correspond to our report.
